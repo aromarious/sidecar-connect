@@ -16,4 +16,4 @@ npm install -g https://github.com/aromarious/sidecar-connect
 % sidecar-connect
 ```
 
-Sidecar を接続する。接続中であれば切断す今までに接続したことがあり、Mac が認識している必要がある。
+Sidecar を接続する。接続中であれば切断する。Sidecarは今までに接続したことがあり、Mac が認識している必要がある。
