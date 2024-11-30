@@ -1,0 +1,9 @@
+{
+  "name": "sidecar-connect",
+  "version": "1.0.0",
+  "keywords": [],
+  "bin": "./bin/sidecar-connect",
+  "author": "aromarious(aro)",
+  "license": "ISC",
+  "description": ""
+}

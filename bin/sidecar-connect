@@ -1,0 +1,2 @@
+#!/bin/sh
+SidecarLauncher connect $(SidecarLauncher devices) >/dev/null 2>&1 || SidecarLauncher disconnect $(SidecarLauncher devices)
