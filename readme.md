@@ -1,5 +1,7 @@
 # `sidecar-connect`
 
+[🇯🇵 日本語README](readme.ja.md)
+
 A personal display setting command. Connect/disconnect Sidecar.
 
 Uses the [`SidecarLauncher`](https://github.com/Ocasio-J/SidecarLauncher) command.
